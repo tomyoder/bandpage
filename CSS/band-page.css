@@ -1,0 +1,9 @@
+.sidebar {
+  float:right;
+  width: 25%;
+  background-color:#e0941a;
+}
+
+img {
+  float: left;
+}
