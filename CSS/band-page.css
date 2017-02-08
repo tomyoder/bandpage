@@ -2,8 +2,12 @@
   float:right;
   width: 25%;
   background-color:#e0941a;
+  border: 5px solid blue;
+  padding: 12px;
+  margin: 30px;
 }
 
 img {
   float: left;
+  padding: 20px;
 }
